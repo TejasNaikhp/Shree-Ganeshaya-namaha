@@ -1,3 +1,3 @@
 # Shree-Ganeshaya-namaha
-Author-Tejas Naik
+Author-Tejas Naik (HPKu)
 this is my first git repository
